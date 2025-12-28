@@ -123,19 +123,6 @@ ${T(org.apache.commons.io.IOUtils).toString(T(java.lang.Runtime).getRuntime().ex
 ```
 ---
 
-## 🧪 Context-Based Payloads
-
-Payload effectiveness depends on where input is rendered:
-
-- HTML context
-- Attribute context
-- Text context
-- Logic blocks
-
-Always identify the rendering context before testing.
-
----
-
 ## 💥 Security Impact
 
 If SSTI is successfully exploited, it may lead to:
