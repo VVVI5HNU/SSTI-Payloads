@@ -160,5 +160,3 @@ If SSTI is successfully exploited, it may lead to:
 This repository is intended for **educational and authorized security testing purposes only**.
 
 ---
-
-## ✅ End of README
